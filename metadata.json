@@ -1,0 +1,5 @@
+{
+  "name": "Financial Forecast Generator",
+  "description": "Upload bank statement PDFs to automatically generate monthly cash flow summaries, interactive bar charts, and financial forecasts.",
+  "requestFramePermissions": []
+}
